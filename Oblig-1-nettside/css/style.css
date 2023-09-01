@@ -1,5 +1,12 @@
+/* importerer en font fra google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
 
 
+/* css for header */
 header{
     text-align: center;
     color: coral;
