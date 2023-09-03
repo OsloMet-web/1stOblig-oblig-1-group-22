@@ -42,7 +42,9 @@ main {
     padding-left: 25px;
 }
 
-
+.paragraf-text {
+    padding-right: 500px;
+}
 
 
 
@@ -59,4 +61,18 @@ a:hover{
     color:aquamarine;
 }
 
+/* Kilde footer:
+(https://stackoverflow.com/questions/643879/css-to-make-html-page-footer-stay-at-bottom-of-the-page-with-a-minimum-height-b)
+
+Brukt metode 3, "position = absolute"
+*/
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 99%;
+    height: 50px;
+    text-align: center;
+    font-size: 10px;
+}
 
