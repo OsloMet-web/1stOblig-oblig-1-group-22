@@ -7,11 +7,56 @@ body{
 
 
 /* css for header */
+
 header{
-    text-align: center;
+    padding: 25px;
     color: coral;
-    padding: 10px;
-    border-style: dashed;
-    border-color: black;
-    border-width: 3px;
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 20px;
+    
 }
+
+
+h1{
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+  
+#navbar{
+    display:inline-block;
+    vertical-align: middle;
+}
+
+#navbar li{
+    display: inline;
+}
+
+#navbar li:first-child{
+    padding-right: 10px;
+}
+
+main {
+    padding-left: 25px;
+}
+
+
+
+
+
+a:link {
+    color:coral;
+    text-decoration: none; 
+}
+
+a:visited {
+    color:coral;
+}
+
+a:hover{
+    color:aquamarine;
+}
+
+
