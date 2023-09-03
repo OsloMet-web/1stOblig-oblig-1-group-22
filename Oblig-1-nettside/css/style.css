@@ -24,6 +24,10 @@ h1{
     vertical-align: middle;
     
 }
+
+#maintaskb {
+    padding-right: 500px;
+}
   
 #navbar{
     display:inline-block;
