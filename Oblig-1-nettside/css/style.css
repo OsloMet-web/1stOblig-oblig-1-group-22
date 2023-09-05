@@ -1,13 +1,14 @@
 /* importerer en font fra google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
 
+
+/*Her definere vi fonten for hele nettsiden, begge .html dokumenter */
 body{
     font-family: 'Open Sans', sans-serif;
 }
 
 
 /* css for header */
-
 header{
     padding: 25px;
     color: coral;
@@ -67,7 +68,6 @@ a:hover{
 
 /* Kilde footer:
 (https://stackoverflow.com/questions/643879/css-to-make-html-page-footer-stay-at-bottom-of-the-page-with-a-minimum-height-b)
-
 Brukt metode 3, "position = absolute"
 */
 
