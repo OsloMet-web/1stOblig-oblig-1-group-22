@@ -7,7 +7,6 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
-
 /* css for header */
 header{
     padding: 25px;
@@ -15,15 +14,12 @@ header{
     background-color: grey;
     font-family: Arial, Helvetica, sans-serif;
     text-transform: uppercase;
-    font-size: 20px;
-    
+    font-size: 20px;  
 }
-
 
 h1{
     display: inline-block;
     vertical-align: middle;
-    
 }
 
 #maintaskb {
@@ -51,8 +47,6 @@ main {
     padding-right: 500px;
 }
 
-
-
 a:link {
     color:coral;
     text-decoration: none; 
@@ -78,4 +72,3 @@ footer{
     text-align: center;
     font-size: 10px;
 }
-
